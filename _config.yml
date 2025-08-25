@@ -1,0 +1,6 @@
+title: Script Library
+description: Handy utilities and snippets
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
+markdown: kramdown
